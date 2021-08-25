@@ -6,7 +6,7 @@
 ## I'm a Web developer, I also love teaching!!
 
 - 👯 I love collaborating with other developers.
-- 🔭 I believe that learning is the greatest gift and therefor love exploring.
+- 🔭 I believe that learning is the greatest gift and therefore I love exploring.
 - 🌱 I’m currently learning how to learn 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Adventure.
