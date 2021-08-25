@@ -53,19 +53,13 @@
 <!-- YOUTUBE:END -->
 
 
-<details>
-
-
-</details>
-
-<details>
-
-
-</details>
-
 [website]: https://joshualine.github.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/joshchinwendu
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/joshchinwendu
 [linkedin]: https://linkedin.com/in/joshchinwendu
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
