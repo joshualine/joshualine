@@ -1,6 +1,6 @@
 ### Hi, I'm  [Joshua Chinwendu](https://joshualine.github.io) 👋
 
-[![Website](https://img.shields.io/website?label=joshualine.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joshualine.github.io)
+[![Website](https://img.shields.io/website?label=joshuachinwendu.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joshualine.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoshChinwendu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/joshchinwendu)
 
 ## I'm a Web developer, I also love teaching!!
@@ -48,7 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Genesys Learnable Application 🔍](https://www.youtube.com/)
+- [Genesys Learnable Application 🔍](https://youtu.be/7ob0Mf5Ahz4)
 
 <!-- YOUTUBE:END -->
 
