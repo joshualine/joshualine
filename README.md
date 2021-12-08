@@ -48,7 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Genesys Learnable Application 🔍](https://youtu.be/7ob0Mf5Ahz4)
+- [ 🔍](https://youtu.be/zbxV-pzYWs8)
 
 <!-- YOUTUBE:END -->
 
