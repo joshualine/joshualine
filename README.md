@@ -48,7 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ 🔍](https://youtu.be/zbxV-pzYWs8)
+- [Josh-Script 🔍](https://youtu.be/zbxV-pzYWs8)
 
 <!-- YOUTUBE:END -->
 
