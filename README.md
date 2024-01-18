@@ -8,7 +8,7 @@
 - 👯 I love collaborating with other developers.
 - 🔭 I believe that learning is the greatest gift and therefore I love exploring.
 - 🌱 I’m currently learning how to learn 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects |make the world a little better.
+- 🥅 2024 Goals: Contribute more to Open Source projects |make the world a little better.
 - ⚡ Fun fact: I love Adventure.
 
 ### Connect with me:
